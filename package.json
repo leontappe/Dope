@@ -1,6 +1,6 @@
 {
-    "name": "dope",
-    "description": "A Ghost theme",
+    "name": "dope-drei",
+    "description": "Ghost theme for drei",
     "version": "1.0.0",
     "private": true,
     "engines": {
@@ -45,18 +45,18 @@
             "title_font": {
                 "type": "select",
                 "options": [
-                    "Modern sans-serif",
-                    "Elegant serif"
+                    "Source Sans",
+                    "Times"
                 ],
-                "default": "Modern sans-serif"
+                "default": "Source Sans"
             },
             "body_font": {
                 "type": "select",
                 "options": [
-                    "Modern sans-serif",
-                    "Elegant serif"
+                    "Source Sans",
+                    "Times"
                 ],
-                "default": "Modern sans-serif"
+                "default": "Source Sans"
             },
             "show_author": {
                 "type": "boolean",
